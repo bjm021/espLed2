@@ -5,4 +5,4 @@ The main problem with the TCP requests was that my ESP32 keeps crashing when too
 
 The final solution for this system is that it comes with a simple mobile App (preferibly written in Flutter) that send the UDP packages!
 
-The app will be released soon!
+## [ledControl](https://github.com/bjm021/ledControl) companion app
